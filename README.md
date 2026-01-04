@@ -1,4 +1,4 @@
-# Sususudoku - Java Swing Sudoku Game
+# Sudoku - Java Swing Sudoku Game
 
 **Sususudoku** es una aplicación de escritorio desarrollada en **Java** utilizando la biblioteca **Swing**. Permite a los usuarios jugar al Sudoku clásico con diferentes niveles de dificultad, validación en tiempo real y herramientas de ayuda.
 
